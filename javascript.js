@@ -1,1 +1,2 @@
-alert("Esta funcionando")
+alert("Esta funcionando");
+alert("esto es otro alert");
